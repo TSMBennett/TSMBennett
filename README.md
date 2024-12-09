@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+I'm an IT Administratory looking to assist in education at my institution
+I've been working on API's that feed information from our Veracross database into other systems such as Google for Education and REACH Boarding. 
 <!--
 **TSMBennett/TSMBennett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
